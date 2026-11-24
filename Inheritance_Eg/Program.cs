@@ -38,6 +38,8 @@ namespace ConstructorInnheritance
             Console.WriteLine(o3.i);
             Console.WriteLine(o3.j);
 
+
+            //-------->Trying to call Disptructor Manually/ ForceFully <----------------
             //o1 = null;
             //o2 = null;
 
