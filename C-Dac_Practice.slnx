@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ConsoleApp1/AccessSpecifiers.csproj" />
+  <Project Path="Inheritance_Eg/Inheritance_Eg.csproj" />
+  <Project Path="Overriden_Eg/Overriden_Eg.csproj" />
+</Solution>
