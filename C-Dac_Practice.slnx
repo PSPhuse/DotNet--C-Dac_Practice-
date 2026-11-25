@@ -1,5 +1,8 @@
 <Solution>
   <Project Path="ConsoleApp1/AccessSpecifiers.csproj" />
+  <Project Path="Inheritance-Assignment/Inheritance-Assignment.csproj" Id="7a198932-074a-4169-99c5-8ce6316fc300" />
   <Project Path="Inheritance_Eg/Inheritance_Eg.csproj" />
+  <Project Path="Inheritance_Interface/Inheritance_Interface.csproj" Id="58390204-ae14-4f0f-9417-daaedb2a2926" />
+  <Project Path="Interfaces/Interfaces.csproj" Id="50fdd694-d725-42af-b761-681763ee84e4" />
   <Project Path="Overriden_Eg/Overriden_Eg.csproj" />
 </Solution>
