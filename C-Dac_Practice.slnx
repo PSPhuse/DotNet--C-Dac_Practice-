@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Assignment_2/Assignment_2.csproj" Id="97c58feb-7886-4de9-bae5-2b5102509ee4" />
   <Project Path="ConsoleApp1/AccessSpecifiers.csproj" />
   <Project Path="Inheritance-Assignment/Inheritance-Assignment.csproj" Id="7a198932-074a-4169-99c5-8ce6316fc300" />
   <Project Path="Inheritance_Eg/Inheritance_Eg.csproj" />
