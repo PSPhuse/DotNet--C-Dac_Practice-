@@ -41,9 +41,18 @@ namespace WorkWithCollections_Day_4
             {
                 Console.Write(val+" ");
             }
-            //int[] array = new int[10];
-            //ar.CopyTo(array, 2);
-            
+            Object[] emp = new Object[7];
+            ar.CopyTo(emp, 2);
+            Console.WriteLine("\nThis is the copied array:");
+            foreach (object val in emp)            //Iterate an Array List
+            {
+                Console.Write(val+" ");
+            }
         }
+    }
+    public class Employee
+    {
+        public int EmpNo { get; set; }
+        public string? Name { get; set; }
     }
 }
