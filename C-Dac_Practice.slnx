@@ -6,4 +6,6 @@
   <Project Path="Inheritance_Interface/Inheritance_Interface.csproj" Id="58390204-ae14-4f0f-9417-daaedb2a2926" />
   <Project Path="Interfaces/Interfaces.csproj" Id="50fdd694-d725-42af-b761-681763ee84e4" />
   <Project Path="Overriden_Eg/Overriden_Eg.csproj" />
+  <Project Path="WorkWithArray_Day-4/WorkWithArray_Day-4.csproj" Id="cda6519c-a0fb-4c4f-8b15-868a6a9223f1" />
+  <Project Path="WorkWithCollections_Day-4/WorkWithCollections_Day-4.csproj" Id="b4673fd3-f0ae-4db5-b5d4-04f561a62b48" />
 </Solution>
