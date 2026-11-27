@@ -4,6 +4,7 @@
   <Project Path="Assignment_2/Assignment_2.csproj" Id="97c58feb-7886-4de9-bae5-2b5102509ee4" />
   <Project Path="ConsoleApp1/AccessSpecifiers.csproj" />
   <Project Path="Delegates_Eg/Delegates_Eg-Day-4.csproj" Id="502d1053-2f70-4b1b-8cdc-79648e2d503b" />
+  <Project Path="EventHandling_Day-5/EventHandling_Day-5.csproj" Id="348d3742-092a-4a5d-9c5a-22872f9be18d" />
   <Project Path="Inheritance-Assignment/Inheritance-Assignment.csproj" Id="7a198932-074a-4169-99c5-8ce6316fc300" />
   <Project Path="Inheritance_Eg/Inheritance_Eg.csproj" />
   <Project Path="Inheritance_Interface/Inheritance_Interface.csproj" Id="58390204-ae14-4f0f-9417-daaedb2a2926" />
