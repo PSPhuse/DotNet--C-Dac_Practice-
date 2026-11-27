@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="Action_Function_Predicate-[Delegates]-Day-5/Action_Function_Predicate-[Delegates]-Day-5.csproj" Id="34a994c2-e4e4-42fb-89aa-23f84c4a9ae4" />
+  <Project Path="AnonimusFunc-Day5/AnonimusFunc-Day5.csproj" Id="79882913-a7d3-4940-bf5c-784b23b016da" />
   <Project Path="Assignment_2/Assignment_2.csproj" Id="97c58feb-7886-4de9-bae5-2b5102509ee4" />
   <Project Path="ConsoleApp1/AccessSpecifiers.csproj" />
   <Project Path="Delegates_Eg/Delegates_Eg-Day-4.csproj" Id="502d1053-2f70-4b1b-8cdc-79648e2d503b" />
@@ -6,6 +8,7 @@
   <Project Path="Inheritance_Eg/Inheritance_Eg.csproj" />
   <Project Path="Inheritance_Interface/Inheritance_Interface.csproj" Id="58390204-ae14-4f0f-9417-daaedb2a2926" />
   <Project Path="Interfaces/Interfaces.csproj" Id="50fdd694-d725-42af-b761-681763ee84e4" />
+  <Project Path="LambdaFunction_Day-5/LambdaFunction_Day-5.csproj" Id="bf484fb2-3d34-4b42-9f22-91b7607e56ce" />
   <Project Path="Overriden_Eg/Overriden_Eg.csproj" />
   <Project Path="WorkWithArray_Day-4/WorkWithArray_Day-4.csproj" Id="cda6519c-a0fb-4c4f-8b15-868a6a9223f1" />
   <Project Path="WorkWithCollections_Day-4/WorkWithCollections_Day-4.csproj" Id="b4673fd3-f0ae-4db5-b5d4-04f561a62b48" />
