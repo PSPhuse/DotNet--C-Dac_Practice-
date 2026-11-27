@@ -11,7 +11,7 @@
 
             Class2 o2 = new Class2();
             o2.PrimeNo += PrimeEventHandler;
-            o2.PrimeNo += obj_EventHandlerFunction;
+            //o2.PrimeNo += obj_EventHandlerFunction;
             o2.Num = -4;
             Console.WriteLine(o2.Num);
         }
@@ -20,9 +20,9 @@
             Console.WriteLine("Event Handle Here...");
         }
 
-        private static void PrimeEventHandler()
+        private static void PrimeEventHandler(int InvalidValue)
         {
-            Console.WriteLine("This is Prime Number Check Handler...");
+            Console.WriteLine("This is Parametrise Event Handler:"+InvalidValue);
         }
     }
     //Step 1 : Create the delegate class with same signiture of the related event
@@ -52,7 +52,7 @@
         }
     }
     //Create the delegate class of same signature of event
-    public delegate void CheckEvent();
+    public delegate void CheckEvent(int InvalidValue);
     public class Class2
     {
         //Create the reference of event
@@ -73,7 +73,7 @@
                     if(PrimeNo != null)
                     {
                         //raise the event
-                        PrimeNo();
+                        PrimeNo(value);
                     }
                 }
             }
